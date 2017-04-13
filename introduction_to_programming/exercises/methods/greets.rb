@@ -6,4 +6,8 @@ def world
   "World"
 end
 
-puts "#{hello} #{world}"
+def greets
+  puts hello + ' ' + world
+end
+
+greets
