@@ -3,4 +3,3 @@ def greet(person)
 end
 
 greet("John")
-greet(1)
